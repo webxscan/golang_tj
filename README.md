@@ -1,6 +1,5 @@
 #golang web流量统计 上
 
-#简介
 BLOG： http://blog.csdn.net/webxscan/ <br>
 BY：斗转星移 QQ:29295842 <br>
 自己做流量统计<br>
